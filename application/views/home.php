@@ -115,37 +115,28 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <section id="services" class="padding-top-90">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-3 col-xs-4">
             <img class="img-responsive sm-display-none" src="assets/images/hand_phone.png" alt="">
           </div>
           <div class="col-md-8">
             <div class="row">
               <div class="col-md-6">
                 <div class="heading-wraper text-center margin-bottom-80">
-                  <h4>best services</h4>
+                  <h4>our services</h4>
                   <hr class="heading-devider gradient-orange">
                 </div>
               </div>
             </div>
             <div class="row">
-              <div class="col-md-6 col-sm-6">
-                <h5 class="service-title">RESPONSIVE DEVELOPMENT</h5>
-                <p class="services-content margin-bottom-25">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
+              <div class="col-md-6 col-sm-8">
+                <h5 class="service-title">IT Services - Hardware</h5>
+                <p class="services-content margin-bottom-25">Regullux merupakan IT Service yang bergerak di bidang IT Hardware yang menyediakan jasa antara lain : Networking, PC Building, Hardware Maintenance, juga Pengadaan peralatan-peralatan IT.</p>
               </div>
-              <div class="col-md-6 col-sm-6">
-                <h5 class="service-title">RESPONSIVE DEVELOPMENT</h5>
-                <p class="services-content margin-bottom-25">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
+              <div class="col-md-6 col-sm-8">
+                <h5 class="service-title">IT Services - Software</h5>
+                <p class="services-content margin-bottom-25">Regullux juga bergerak di bidang IT Software, yang menyediakan jasa seperti : POS Application, E-Learning dengan Moodle, CRM Application, HR Application, Android dan iOS Application, Android dan iOS Troubleshooting, juga Web Development. </p>
               </div>
             </div>
-            <div class="row">
-              <div class="col-md-6 col-sm-6">
-                <h5 class="service-title">RESPONSIVE DEVELOPMENT</h5>
-                <p class="services-content margin-bottom-25">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
-              </div>
-              <div class="col-md-6 col-sm-6">
-                <h5 class="service-title">RESPONSIVE DEVELOPMENT</h5>
-                <p class="services-content margin-bottom-25">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
-              </div>
             </div>
           </div>
         </div>

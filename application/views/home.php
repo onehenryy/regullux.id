@@ -7,6 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <head>
     <!-- Required meta tags always come first -->
     <meta charset="utf-8">
+    <title>Regullux Technology</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
@@ -43,7 +44,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <li><a href="#introduction">Intro</a></li>
               <li><a href="#feature">Product</a></li>
               <li><a href="#newsletter">Contact</a></li>
-              <li><a href="#" class="btn btn-orange border-none btn-rounded-corner btn-navbar">Download<span class="icon-on-button"><i class="ion-ios-cloud-download-outline"></i></span></a></li>
+              <li><a href="#" class="btn btn-orange border-none btn-rounded-corner btn-navbar">Get Info<span class="icon-on-button"></span></a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
           <hr class="navbar-divider">
@@ -54,11 +55,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <div id="home-slider" class="owl-carousel">
         <div>
           <div class="sliding-card-with-bottom-image text-center padding-top-90">
-            <h2 class="cta-heading text-white">Lazy Fox HTML5 Landing page</h2>
-            <p class="text-white slider-para">Awesome Stylish Template Powered By THEMEWAGON</p>
+            <h2 class="cta-heading text-white">WE HELP AND PROVIDE BEST IT SERVICE FOR YOU</h2>
+            <p class="text-white slider-para">IT SERVICE TANGERANG</p>
             <div class="cta-btn-group">
-              <a class="btn btn-orange border-none btn-rounded-corner" href="#">Download <span class="icon-on-button"><i class="ion-ios-cloud-download-outline"></i></span></a>
-              <a class="btn-video text-white" href="#"><span class="icon-rounded bordered-ios"><i class="ion-ios-play-outline"></i></span>watch tutorial</a>
+              <a class="btn btn-orange border-none btn-rounded-corner" href="#">CHAT WITH US<span class="icon-on-button"></span></a>
             </div>
             <div class="image-container text-center sm-display-none">
               <img class="img-responsive" src="assets/images/mockuo2.png" alt="">
@@ -66,20 +66,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           </div>
         </div>
         
-        <div>
-          <div class="container">
-            <div class="row">
-              <div class="image-right-slide-bg clearfix" style="background-image:url(assets/images/mockuo.png)">
-                <div class="col-md-12">
-                  <h2 class="cta-heading text-white">Regullux</h2>
-                  <p class="text-white slider-para">Smooth Scroll and Gradient style</p>
-                  <div class="cta-btn-group">
-                    <a class="btn btn-orange border-none btn-rounded-corner" href="#">Download <span class="icon-on-button"><i class="ion-ios-cloud-download-outline"></i></span></a>
-                    <a class="btn btn-white border-none btn-rounded-corner" href="#">Live demo<span class="icon-on-button"><i class="ion-ios-arrow-thin-right"></i></span></a>
-                  </div>
-                </div>
-              </div>
-            </div>
+       
           </div>
         </div>
       </div>
@@ -88,23 +75,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <div class="container">
         <div class="row">
             <div class="feature-wiget">
-              <div class="col-xs-7 col-sm-3">
-             <i class="ion-settings"></i>
-                <i>Easily Cutomised</i>
-                <p>Easily customise Sedna to suit your start up, portfolio or is product. Take advantage of the layered Sketch file and bring your product to life.</p>
+              <div class="col-xs-7 col-sm-4 col-md-offset-0">
+             <i class="ion-heart"></i>
+                <i>Bekerja Dengan H/i>
+                <p>.</p>
               </div>
-            </div>
-            <div class="feature-wiget">
-             <div class="col-xs-7 col-sm-3">
-              <i class="ion-calendar"></i>
-                <i >MODERN DESIGN</i>
+
+             <div class="col-xs-7 col-sm-4 col-md-offset-0">
+              <i class="ion-ios-lightbulb"></i>
+                <i>Creativity</i>
                 <p>Designed with modern trends and techniques in mind, Sedna will help your product stand out in an already saturated market.</p>
               </div>
-            </div>
-            <div class="feature-wiget">
-             <div class="col-xs-7 col-sm-3">
-             <i class="ion-ipad"></i>
-                <i>RESPONSIVE DEVELOPMENT</i>
+
+             <div class="col-xs-7 col-sm-4 col-md-offset-0">
+             <i class="ion-android-refresh"></i>
+                <i>Consistent</i>
                 <p>Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
               </div>
             </div>

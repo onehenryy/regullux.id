@@ -166,7 +166,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-md-3">
             <div class="footer-left-content">
               <div class="logo-colored">
-                <img src="assets/images/Logo_color.png" alt="">REGULLUX
+                <img src="assets/images/Logo_color.png" alt="">
               </div>
               <div class="content">
                 <p>Jln. KH. Hasyim Ashari KM2, No.57, RT004/01, Kel. Poris Plawad Utara, Kec. Cipondoh, Kota Tangerang, Banten, Indonesia.</p>

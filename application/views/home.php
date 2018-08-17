@@ -175,13 +175,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               </div>
             </div>
           </div>
-          <div class="col-md-9">
-            <div class="row">
-              <div class="col-md-3 col-sm-6">
-                <div class="footer-list-wiget">
-                 
-                </div>
-              </div>
+          <center><div class="col-md-9">
+            <div class="row"></center>
               <div class="col-md-3 col-sm-6">
                 <div class="footer-list-wiget">
                   <h4>Support</h4>

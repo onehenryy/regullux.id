@@ -106,7 +106,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-md-8">
             <div class="row">
               <div class="col-md-6">
-                <div class="heading-wraper text-center margin-bottom-80">
+                <div class="heading-wraper margin-bottom-25">
                   <h4>Our Services</h4>
                   <hr class="heading-devider gradient-orange">
                 </div>
@@ -136,8 +136,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           </div>
         </div>
         <div class="col-md-5">
-          <div class="customer-support-content padding-top-bottom-120 sm-padding-top-bottom-50-75">
-            <h4>24/7 Customer Support</h4>
+          <div class="heading-wraper-cs customer-support-content padding-top-bottom-120 sm-padding-top-bottom-50-75">
+            <h4>Feel Free To Consult With Us</h4>
+            <hr class="heading-devider-cs gradient-orange">
             <p class="margin-top-bottom-30">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
             <a class="btn btn-orange border-none btn-rounded-corner" href="#">need our help ? let's chat<span class="icon-on-button"><i class="ion-ios-arrow-thin-right"></i></span></a>
           </div>

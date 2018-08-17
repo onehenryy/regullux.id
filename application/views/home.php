@@ -77,7 +77,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="feature-wiget">
               <div class="col-xs-7 col-sm-4 col-md-offset-0">
              <i class="ion-heart"></i>
+<<<<<<< HEAD
                 <i>Bekerja Dengan H/i>
+=======
+                <i>Work with Love</i>
+>>>>>>> 3df12c86d6d5a7a444aef94b24e547a081d30a22
                 <p>.</p>
               </div>
 
@@ -107,7 +111,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="row">
               <div class="col-md-6">
                 <div class="heading-wraper text-center margin-bottom-80">
+<<<<<<< HEAD
                   <h4>our services</h4>
+=======
+                  <h4>Our Services</h4>
+>>>>>>> 3df12c86d6d5a7a444aef94b24e547a081d30a22
                   <hr class="heading-devider gradient-orange">
                 </div>
               </div>

@@ -93,10 +93,25 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <p>Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
               </div>
             </div>
-
         </div>
       </div>
     </section>
+<!-- ABOUT REGULLUX -->
+
+<section id="cta" class="gradient-violat cta padding-top-bottom-90">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h4 class="cta-heading text-white">ABOUT US</h4>
+            <p class="text-white">Smooth Scroll and Gradient style</p>   
+          </div>
+        </div>
+      </div>
+    </section>
+<!-- END ABOUT REGULLUX -->
+
+
+
     <section id="services" class="padding-top-90">
       <div class="container">
         <div class="row">
@@ -137,7 +152,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-5">
           <div class="heading-wraper-cs customer-support-content padding-top-bottom-120 sm-padding-top-bottom-50-75">
-            <h4>Feel Free To Consult With Us</h4>
+            <h4>Consult With Us</h4>
             <hr class="heading-devider-cs gradient-orange">
             <p class="margin-top-bottom-30">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
             <a class="btn btn-orange border-none btn-rounded-corner" href="#">need our help ? let's chat<span class="icon-on-button"><i class="ion-ios-arrow-thin-right"></i></span></a>
@@ -156,7 +171,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="content">
                 <p>Jln. KH. Hasyim Ashari KM2, No.57, RT004/01, Kel. Poris Plawad Utara, Kec. Cipondoh, Kota Tangerang, Banten, Indonesia.</p>
                 <p>+88456895872, +88456595572</p>
-                <p>info@regullux.id.</p>
+                <p>info@regullux.id</p>
               </div>
             </div>
           </div>

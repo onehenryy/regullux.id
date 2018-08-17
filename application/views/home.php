@@ -77,7 +77,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="feature-wiget">
               <div class="col-xs-7 col-sm-4 col-md-offset-0">
              <i class="ion-heart"></i>
-                <i>Bekerja Dengan H/i>
+                <i>Work with Love</i>
                 <p>.</p>
               </div>
 
@@ -107,7 +107,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="row">
               <div class="col-md-6">
                 <div class="heading-wraper text-center margin-bottom-80">
-                  <h4>our services</h4>
+                  <h4>Our Services</h4>
                   <hr class="heading-devider gradient-orange">
                 </div>
               </div>

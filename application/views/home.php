@@ -151,135 +151,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
       </div>
     </section>
-    <section id="cta" class="gradient-violat cta padding-top-bottom-90">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 text-center">
-            <h3 class="cta-heading text-white">Lazy Fox HTML5 Landing page</h3>
-            <p class="text-white">Smooth Scroll and Gradient style</p>
-            <div class="cta-btn-group">
-              <a class="btn btn-orange border-none btn-rounded-corner" href="#">Download <span class="icon-on-button"><i class="ion-ios-cloud-download-outline"></i></span></a>
-              <a class="btn btn-white gradient-white border-none btn-rounded-corner" href="#">Live demo<span class="icon-on-button"><i class="ion-ios-arrow-thin-right"></i></span></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section id="blog-card" class="padding-top-bottom-90">
-      <div class="container">
-        <div class="heading-wraper text-center margin-bottom-80">
-          <h4>latest published</h4>
-          <hr class="heading-devider gradient-orange">
-        </div>
-        <div class="row">
-          <div class="col-md-4">
-            <div class="card">
-              <img class="card-img-top img-responsive max-width-100" src="assets/images/b1.png" alt="Card image cap">
-              <div class="card-block">
-                <p class="card-text"><small class="text-muted blog-category">web design</small></p>
-                <h4 class="card-title">Make your website with best web Tools.</h4>
-                <p class="card-text"><small class="text-muted italic">21<sup>st</sup> jun 2016</small></p>
-                <p class="card-text">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
-                <a href="" class="btn btn-link">read more <span><i class="ion-ios-arrow-thin-right"></i></span> </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card">
-              <img class="card-img-top img-responsive max-width-100" src="assets/images/b2.png" alt="Card image cap">
-              <div class="card-block">
-                <p class="card-text"><small class="text-muted blog-category">web design</small></p>
-                <h4 class="card-title">Make your website with best web Tools.</h4>
-                <p class="card-text"><small class="text-muted italic">21<sup>st</sup> jun 2016</small></p>
-                <p class="card-text">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
-                <a href="" class="btn btn-link">read more <span><i class="ion-ios-arrow-thin-right"></i></span> </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card">
-              <img class="card-img-top img-responsive max-width-100" src="assets/images/b3.png" alt="Card image cap">
-              <div class="card-block">
-                <p class="card-text"><small class="text-muted blog-category">web design</small></p>
-                <h4 class="card-title">Make your website with best web Tools.</h4>
-                <p class="card-text"><small class="text-muted italic">21<sup>st</sup> jun 2016</small></p>
-                <p class="card-text">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
-                <a href="" class="btn btn-link">read more <span><i class="ion-ios-arrow-thin-right"></i></span> </a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </section> 
-    <section id="testimonial" class="testimonial-section padding-top-bottom-90 gradient-violat">
-      <div class="container">
-        <div class="heading-wraper text-center">
-          <h4 class="text-white">in the press</h4>
-          <hr class="heading-devider gradient-orange">
-        </div>
-        <div class="row">
-          <div class="col-md-8 col-md-offset-2">
-            <div id="testimonial-carousel" class="owl-carousel">
-              <div>
-                <div class="testimonial-container">
-                  <div class="client-details text-center">
-                    <img src="assets/images/t-1.png" alt="">
-                    <h5 class="client-name">Arix Wonder</h5>
-                    <p class="client-designation">CEO Of LVATO</p>
-                    <ul class="social-list">
-                      <li><a href=""><i class="ion-social-linkedin"></i></a></li>
-                      <li><a href=""><i class="ion-social-pinterest"></i></a></li>
-                      <li><a href=""><i class="ion-social-googleplus"></i></a></li>
-                    </ul>
-                  </div>
-                  <div class="testimonial-content">
-                    <p><i class="ion-quote"></i></p>
-                    <p class="testimonial-speech">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.Built using the latest web technologies like html5, css3, and jQuery.</p>
-                  </div>
-                </div>
-              </div>
-              <div>
-                <div class="testimonial-container">
-                  <div class="client-details text-center">
-                    <img src="assets/images/t-1.png" alt="">
-                    <h5 class="client-name">Arix Wonder</h5>
-                    <p class="client-designation">CEO Of LVATO</p>
-                    <ul class="social-list">
-                      <li><a href=""><i class="ion-social-linkedin"></i></a></li>
-                      <li><a href=""><i class="ion-social-pinterest"></i></a></li>
-                      <li><a href=""><i class="ion-social-googleplus"></i></a></li>
-                    </ul>
-                  </div>
-                  <div class="testimonial-content">
-                    <p><i class="ion-quote"></i></p>
-                    <p class="testimonial-speech">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.Built using the latest web technologies like html5, css3, and jQuery.</p>
-                  </div>
-                </div>
-              </div>
-              <div>
-                <div class="testimonial-container">
-                  <div class="client-details text-center">
-                    <img src="assets/images/t-1.png" alt="">
-                    <h5 class="client-name">Arix Wonder</h5>
-                    <p class="client-designation">CEO Of LVATO</p>
-                    <ul class="social-list">
-                      <li><a href=""><i class="ion-social-linkedin"></i></a></li>
-                      <li><a href=""><i class="ion-social-pinterest"></i></a></li>
-                      <li><a href=""><i class="ion-social-googleplus"></i></a></li>
-                    </ul>
-                  </div>
-                  <div class="testimonial-content">
-                    <p><i class="ion-quote"></i></p>
-                    <p class="testimonial-speech">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.Built using the latest web technologies like html5, css3, and jQuery.</p>
-                  </div>
-                </div>
-              </div>
-            </div>              
-          </div>
-        </div>
-      </div>
-    </section>
+    
     <section id="customer-support" class="overflow-x-hidden">
       <div class="row">
         <div class="col-md-6">
@@ -296,40 +168,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
       </div>
     </section>
-    <section id="newsletter" class="padding-top-bottom-120 newsletter">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 sunscription-wraper-outer col-md-offset-2 bg-fit" style="background:url(assets/images/newsletter.png)">
-            <div class="row">
-              <div class="col-md-8 col-md-offset-2 padding-top-bottom-90">
-                <div class="subscription-wraper text-center">
-                  <h4 class="text-upper">Subscribe newslatter</h4>
-                  <p>Enter your email address for our weekly new update</p>
-                  <form class="subscription-form">
-                    <div class="form-group">
-                      <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
-                    </div>
-                    <a class="btn btn-orange border-none btn-rounded-corner" href="#">Subscribe  now<span class="icon-on-button"><i class="ion-ios-arrow-thin-right"></i></span></a>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     <footer class="padding-top-120">
       <div class="container">
         <div class="row">
           <div class="col-md-3">
             <div class="footer-left-content">
               <div class="logo-colored">
-                <img src="assets/images/Logo_color.png" alt="">lazy fox
+                <img src="assets/images/Logo_color.png" alt="">REGULLUX
               </div>
               <div class="content">
-                <p class="margin-bottom-30 margin-top-30">Built using the latest web technologies like css3, and jQuery, rest assured Sedna look.</p>
+                <p>Jln. KH. Hasyim Ashari KM2, No.57, RT004/01, Kel. Poris Plawad Utara, Kec. Cipondoh, Kota Tangerang, Banten, Indonesia.</p>
                 <p>+88456895872, +88456595572</p>
-                <p>example@mail.com. lazyfox@mail.com</p>
+                <p>info@regullux.id.</p>
               </div>
             </div>
           </div>
@@ -337,13 +187,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="row">
               <div class="col-md-3 col-sm-6">
                 <div class="footer-list-wiget">
-                  <h4>learn more</h4>
-                  <div class="list-group">
-                    <a href="#" class="list-group-item">About Dolphin</a>
-                    <a href="#" class="list-group-item">Learn CSS</a>
-                    <a href="#" class="list-group-item">Meeting Tools</a>
-                    <a href="#" class="list-group-item">Pricing</a>
-                  </div>
+                 
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">

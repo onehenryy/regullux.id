@@ -105,7 +105,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <div class="container">
         <div class="row">
           <div class="feature-wiget">
-            <i>About Us</i>
+            <i> About Us</i>
+            <p>Regullux merupakan Startup yang didirikan oleh sekumpulan anak muda yang memiliki background dalam bidang Information Technology, Regullux menyadari masyarakat dan corporate - corporate memiliki kebutuhan yang besar dalam bidang IT, khususnya dalam pelayanan jasa. Maka dari itu, Regullux hadir dan menjadikan nya sebagai startup yang berfokus pada penyedian jasa bagi semua orang.</p>
+              <div class="row">
+                  <div class="col-md-6 col-sm-8">
+                      <h3 class="service-title">Visi</h3>
+                      <p>Menyediakan layanan IT services secara inklusif untuk semua kalangan</p>
+                    </div>
+                      <div class="row">
+                        <div class="col-md-6 col-sm-8">
+                            <h3 class="service-title">Misi</h3>
+                            <p>Dengan cara berkomitmen dalam bekerja sama, selalu menumbuhkan rasa percaya kepada semua pihak, dan memberika value yang terjangkau serta pelayanan yang terbaik</p>
+                          </div>
+                        </div>
+                      </div>
+                      </div>
         </div>
       </div>
     </section>
@@ -119,7 +133,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="feature-wiget">
               <div class="col-xs-7 col-sm-4 col-md-offset-0">
              <i class="ion-heart"></i>
-                <i>Work with Love</i>
+                <i>cWork with Love</i>
                 <p>.</p>
               </div>
 

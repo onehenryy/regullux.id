@@ -196,7 +196,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
           <div class="col-md-3">
             <div class="footer-left-content">
-              <div class="logo-colored">
+              <div class="logo-regullux">
                 <img src="assets/images/regullux.png" alt="">
               </div>
               <div class="content">

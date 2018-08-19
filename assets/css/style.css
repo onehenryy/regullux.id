@@ -359,8 +359,17 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 }
 .logo-colored{
 	color: #e8617d;
-	object-fit: fill;
 }
+
+.logo-regullux img{
+	display: block;
+    text-transform: uppercase;
+    max-height: 95px;
+    margin-right: 200px;
+    
+
+}
+
 .footer-left-content{
 	margin-bottom: 50px;
 }

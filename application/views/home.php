@@ -101,6 +101,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
   <!-- END MODAL DIALOG BUAT GET INFO -->
 
+
+<!-- ABOUT REGULUUX -->
  <section id="about" class="padding-top-bottom-120 bg-image-fit-50" style="background:url(assets/images/about_us.jpg)">
       <div class="container">
         <div class="row">
@@ -123,10 +125,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
       </div>
     </section>
+<!-- END ABOUT REGULUUX -->.
 
-
-
-<!-- -->
     <section id="feature" class="padding-top-bottom-120 bg-image-fit-50" style="background:url(assets/images/1_back.png)">
       <div class="container">
         <div class="row">

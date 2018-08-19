@@ -101,9 +101,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <section id="cta" class="gradient-violat cta padding-top-bottom-90">
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h4 class="cta-heading text-white">ABOUT US</h4>
-            <p class="text-white">Smooth Scroll and Gradient style</p>   
+          <div class="col-md-12 ">
+            <h4 class="text-white text-center">ABOUT US</h4>
+            <p class="text-white">VISI :</p>   
+            <p class="text-white">MISI :</p>  
           </div>
         </div>
       </div>

@@ -197,7 +197,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-md-3">
             <div class="footer-left-content">
               <div class="logo-colored">
-                <img src="assets/images/Logo_color.png" alt="">
 <<<<<<< HEAD
                 <img src="assets/images/regullux.png" alt="">
 =======

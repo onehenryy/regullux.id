@@ -197,12 +197,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-md-3">
             <div class="footer-left-content">
               <div class="logo-colored">
-<<<<<<< HEAD
-<<<<<<< HEAD
                 <img src="assets/images/regullux.png" alt="">
-=======
-                <img height="100px" src="assets/images/Logo_color.png" alt="">
->>>>>>> ff4b69be9d82574953feb3539ff380002463f843
               </div>
               <div class="content">
                 <p>Jln. KH. Hasyim Ashari KM2, No.57, RT004/01, Kel. Poris Plawad Utara, Kec. Cipondoh, Kota Tangerang, Banten, Indonesia.</p>

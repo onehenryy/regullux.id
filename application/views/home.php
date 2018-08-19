@@ -191,6 +191,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
       </div>
     </section>
+<!-- BLANK SPACE -->
+<section id="blank_id" class="gradient-orange padding-top-90">
+      <div class="container">
+        <div class="row">
+          </div>
+        </div>
+      </div>
+    </section>
+<!-- BLANK SPACE -->
     <footer class="padding-top-120">
       <div class="container">
         <div class="row">
@@ -246,7 +255,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           </div>
           <hr class="footer-divider">
           <div class="privacy">
-            <a href="https://regullux.id/"><span class="span text-violat ">Privacy Policy</span></a></div>
+            <a href="https://regullux.id/"><span class="span text-violat">Privacy Policy</span></a></div>
           <div class="copyright">
             <p class="text-uppercase text-center">All rights Reserved By <a href="https://regullux.id/"><span class="span text-violat ">Regullux</span></a></p>
           </div>

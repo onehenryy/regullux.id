@@ -1,5 +1,30 @@
 $(document).ready(function() {
 
+	// customize regullux
+
+			$("#berlangganan").on("submit", function(e) {
+      		var postData = $(this).serializeArray();
+      		var formURL = $(this).attr("action");
+      		$.ajax({
+           	url: formURL,
+            type: "POST",
+           	data: postData,
+            success: function(data, textStatus, jqXHR) {
+			$('#berlangganan .modal-header .modal-title').html("Result");
+			$('#berlangganan .modal-body').html(data);
+			$("#sentForm").remove();
+			},
+			error: function(jqXHR, status, error) {
+			console.log(status + ": " + error);
+			}
+			});
+			e.preventDefault();
+			});
+			$("#sentForm").on('click', function() {
+			$("#berlangganan").submit();
+
+			});
+
 	// OWL CAROUSEL INSTALLATION
 	$("#testimonial-carousel").owlCarousel({
 		items:1,

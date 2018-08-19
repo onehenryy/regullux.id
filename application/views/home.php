@@ -8,6 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- Required meta tags always come first -->
     <meta charset="utf-8">
     <title>Regullux Technology</title>
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
@@ -40,11 +41,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav  navbar-right">
               <li class="active"><a href="#home">Home <span class="sr-only">(current)</span></a></li>
-              <li><a href="#blog-card">About</a></li>
+              <li><a href="#about">About</a></li>
               <li><a href="#introduction">Intro</a></li>
               <li><a href="#feature">Product</a></li>
-              <li><a href="#newsletter">Contact</a></li>
-              <li><a href="#" class="btn btn-orange border-none btn-rounded-corner btn-navbar">Get Info<span class="icon-on-button"></span></a></li>
+              <li><a data-toggle="modal" data-target="#berlangganan" class="btn btn-orange border-none btn-rounded-corner btn-navbar">Get Info<span class="icon-on-button">
+              </span></a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
           <hr class="navbar-divider">
@@ -58,7 +59,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <h2 class="cta-heading text-white">WE HELP AND PROVIDE BEST IT SERVICE FOR YOU</h2>
             <p class="text-white slider-para">IT SERVICE TANGERANG</p>
             <div class="cta-btn-group">
-              <a class="btn btn-orange border-none btn-rounded-corner" href="#">CHAT WITH US<span class="icon-on-button"></span></a>
+              <a class="btn btn-orange border-none btn-rounded-corner" href="https://wa.me/62?text=Hi+Regullux%2C" target="_blank">CHAT WITH US<span class="icon-on-button"></span></a>
             </div>
             <div class="image-container text-center sm-display-none">
               <img class="img-responsive" src="assets/images/mockuo2.png" alt="">
@@ -71,6 +72,35 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
       </div>
     </section>
+
+<!-- MODAL DIALOG BUAT GET INFO -->
+
+<div class="modal fade" id="berlangganan" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title text-center">Dapatkan penawaran terbaik</h4>
+            </div>
+                <div class="modal-body">
+                    <form id="get_info" action="assets/getinfo.php" method="POST">
+                        First Name :<input type="text" name="first_name"><br/>
+                        <br/>
+                        Last Name :<input type="text" name="last_name"><br/>
+                        <br/>
+                        Email :    <input type="text" name="email"><br/><br/>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="button" id="sentForm" class="btn btn-default">Send</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  <!-- MODAL DIALOG BUAT GET INFO -->
+
     <section id="feature" class="padding-top-bottom-120 bg-image-fit-50" style="background:url(assets/images/1_back.png)">
       <div class="container">
         <div class="row">
@@ -98,7 +128,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </section>
 <!-- ABOUT REGULLUX -->
 
-<section id="cta" class="gradient-violat cta padding-top-bottom-90">
+<section id="about" class="gradient-violat cta padding-top-bottom-90">
       <div class="container">
         <div class="row">
           <div class="col-md-12 ">
@@ -168,6 +198,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="footer-left-content">
               <div class="logo-colored">
                 <img src="assets/images/Logo_color.png" alt="">
+<<<<<<< HEAD
+                <img src="assets/images/regullux.png" alt="">
+=======
+                <img height="100px" src="assets/images/Logo_color.png" alt="">
+>>>>>>> ff4b69be9d82574953feb3539ff380002463f843
               </div>
               <div class="content">
                 <p>Jln. KH. Hasyim Ashari KM2, No.57, RT004/01, Kel. Poris Plawad Utara, Kec. Cipondoh, Kota Tangerang, Banten, Indonesia.</p>
@@ -215,8 +250,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
           </div>
           <hr class="footer-divider">
-          <div class="copyright-cta">
-            <p class="text-uppercase">All rights Reserved By <a href="https://themewagon.com/"><span class="span text-violat ">Themewagon</span></a></p>
+          <div class="privacy">
+            <a href="https://regullux.id/"><span class="span text-violat ">Privacy Policy</span></a></div>
+          <div class="copyright">
+            <p class="text-uppercase text-center">All rights Reserved By <a href="https://regullux.id/"><span class="span text-violat ">Regullux</span></a></p>
           </div>
         </div>
       </div>

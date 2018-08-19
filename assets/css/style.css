@@ -359,6 +359,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 }
 .logo-colored{
 	color: #e8617d;
+	object-fit: fill;
 }
 .footer-left-content{
 	margin-bottom: 50px;
@@ -370,7 +371,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 	margin-top: 26px;
 }
 .padding-top-120{
-	padding-top: 120px;
+	padding-top: 100px;
 }
 /*******************************************ELEMENT STYLES*******************************************/
 .btn-orange,.btn-violat{
@@ -689,4 +690,19 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 .home-slider .owl-next{
 	position: absolute;
 	right: 0;
+}
+
+/***************************************CUSTOMIZE REGULLUX******************************************************************/
+
+.privacy {
+	float: right;
+	margin-right: 50px;
+
+
+}
+
+.copyright {
+- 	display: block;
+	+ display: inline-block;
+	margin-left: 30px;
 }

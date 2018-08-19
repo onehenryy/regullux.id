@@ -99,8 +99,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
     </div>
 
-  <!-- MODAL DIALOG BUAT GET INFO -->
+  <!-- END MODAL DIALOG BUAT GET INFO -->
 
+ <section id="about" class="padding-top-bottom-120 bg-image-fit-50" style="background:url(assets/images/about_us.jpg)">
+      <div class="container">
+        <div class="row">
+          <div class="feature-wiget">
+            <i>About Us</i>
+        </div>
+      </div>
+    </section>
+
+
+
+<!-- -->
     <section id="feature" class="padding-top-bottom-120 bg-image-fit-50" style="background:url(assets/images/1_back.png)">
       <div class="container">
         <div class="row">
@@ -126,21 +138,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
       </div>
     </section>
-<!-- ABOUT REGULLUX -->
-
-<section id="about" class="gradient-violat cta padding-top-bottom-90">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 ">
-            <h4 class="text-white text-center">ABOUT US</h4>
-            <p class="text-white">VISI :</p>   
-            <p class="text-white">MISI :</p>  
-          </div>
-        </div>
-      </div>
-    </section>
-<!-- END ABOUT REGULLUX -->
-
 
 
     <section id="services" class="padding-top-90">
@@ -199,7 +196,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
       </div>
     </section>
-<!-- BLANK SPACE -->
+<!-- END BLANK SPACE -->
     <footer class="padding-top-120">
       <div class="container">
         <div class="row">

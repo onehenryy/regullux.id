@@ -42,8 +42,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <ul class="nav navbar-nav  navbar-right">
               <li class="active"><a href="#home">Home <span class="sr-only">(current)</span></a></li>
               <li><a href="#about">About</a></li>
-              <li><a href="#introduction">Intro</a></li>
-              <li><a href="#feature">Product</a></li>
+              <li><a href="#feature">Feature</a></li>
+              <li><a href="#services">Services</a></li>
+              <li><a href="#customer-support">Consult</a></li>
               <li><a data-toggle="modal" data-target="#berlangganan" class="btn btn-orange border-none btn-rounded-corner btn-navbar">Get Info<span class="icon-on-button">
               </span></a></li>
             </ul>
@@ -228,9 +229,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               </div>
             </div>
           </div>
-          <center><div class="col-md-9">
+          <center><div class="col-md-4">
             <div class="row"></center>
-              <div class="col-md-3 col-sm-6">
+              <div class="col-md-3 col-sm-4">
                 <div class="footer-list-wiget">
                   <h4>Support</h4>
                   <div class="list-group">
@@ -241,28 +242,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   </div>
                 </div>
               </div>
-              <div class="col-md-3 col-sm-6">
+              <div class="col-md-2 col-sm-4">
                 <div class="footer-list-wiget">
                   <h4>About</h4>
                   <div class="list-group">
-                    <a href="#" class="list-group-item">About US</a>
-                    <a href="#" class="list-group-item">Careear</a>
-                    <a href="#" class="list-group-item">Privat policy</a>
-                    <a href="#" class="list-group-item">Treams</a>
+                    <a href="#about" class="list-group-item">About US</a>
+                    <a href="#feature" class="list-group-item">Feature</a>
+                    <a href="#services" class="list-group-item">Services</a>
                   </div>
                 </div>
-              </div>
-              <div class="col-md-3 col-sm-6">
-                <div class="footer-list-wiget">
-                  <h4>Links</h4>
-                  <div class="list-group">
-                    <a href="#" class="list-group-item">Home</a>
-                    <a href="#" class="list-group-item">About</a>
-                    <a href="#" class="list-group-item">Product</a>
-                    <a href="#" class="list-group-item">Intro</a>
-                  </div>
-                </div>
-              </div>
               </div>
             </div>
           </div>

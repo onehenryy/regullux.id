@@ -179,8 +179,12 @@ header{
 .feature-regullux i{
 	font-size: 36px;
 	color: #433b88;
-
 }
+
+.feature-regullux p{
+	color: #433b88
+}
+
 .feature-wiget h4, .feature-wiget i{
 	color: #433b88;
 }

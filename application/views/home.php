@@ -108,7 +108,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <div class="container">
         <div class="row">
           <div class="feature-regullux">
-            <i> About Us</i>
+            <i>About Us</i>
             <p>Regullux merupakan Startup yang didirikan oleh sekumpulan anak muda yang memiliki background dalam bidang Information Technology, Regullux menyadari masyarakat dan corporate - corporate memiliki kebutuhan yang besar dalam bidang IT, khususnya dalam pelayanan jasa. Maka dari itu, Regullux hadir dan menjadikan nya sebagai startup yang berfokus pada penyedian jasa bagi semua orang.</p>
               <div class="row">
                   <div class="col-md-6 col-sm-8">

@@ -103,7 +103,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 <!-- ABOUT REGULUUX -->
- <section id="about" class="padding-top-bottom-60 bg-image-fit-50" style="background:url(assets/images/about_us.jpg)">
+ <section id="about" class="padding-top-bottom-45 bg-image-fit-50" style="background:url(assets/images/about_us.jpg)">
       <div class="container">
         <div class="row">
           <div class="feature-regullux">

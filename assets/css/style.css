@@ -169,6 +169,18 @@ header{
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
+
+.feature-regullux{
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
+
+.feature-regullux i{
+	font-size: 36px;
+	color: #433b88;
+
+}
 .feature-wiget h4, .feature-wiget i{
 	color: #433b88;
 }
@@ -435,6 +447,11 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 	padding-top: 90px;
 	padding-bottom: 90px;
 }
+
+.padding-top-bottom-60{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
 .bg-image{
 	background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -556,6 +573,10 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 }
 .padding-top-90{
 	padding-top: 90px;
+}
+
+.padding-top-50{
+	padding-top: 50px;
 }
 .margin-top-bottom-30{
 	margin-top: 30px;

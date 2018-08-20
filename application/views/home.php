@@ -103,10 +103,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 <!-- ABOUT REGULUUX -->
- <section id="about" class="padding-top-bottom-120 bg-image-fit-50" style="background:url(assets/images/about_us.jpg)">
+ <section id="about" class="padding-top-bottom-60 bg-image-fit-50" style="background:url(assets/images/about_us.jpg)">
       <div class="container">
         <div class="row">
-          <div class="feature-wiget">
+          <div class="feature-regullux">
             <i> About Us</i>
             <p>Regullux merupakan Startup yang didirikan oleh sekumpulan anak muda yang memiliki background dalam bidang Information Technology, Regullux menyadari masyarakat dan corporate - corporate memiliki kebutuhan yang besar dalam bidang IT, khususnya dalam pelayanan jasa. Maka dari itu, Regullux hadir dan menjadikan nya sebagai startup yang berfokus pada penyedian jasa bagi semua orang.</p>
               <div class="row">
@@ -122,18 +122,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         </div>
                       </div>
                       </div>
-        </div>
-      </div>
-    </section>
+                   </div>
+               </div>
+        </section>
 <!-- END ABOUT REGULUUX -->.
-
+ <div class="gradient-violat padding-top-50"></div>
     <section id="feature" class="padding-top-bottom-120 bg-image-fit-50" style="background:url(assets/images/1_back.png)">
       <div class="container">
         <div class="row">
             <div class="feature-wiget">
               <div class="col-xs-7 col-sm-4 col-md-offset-0">
              <i class="ion-heart"></i>
-                <i>cWork with Love</i>
+                <i>Work with Love</i>
                 <p>.</p>
               </div>
 

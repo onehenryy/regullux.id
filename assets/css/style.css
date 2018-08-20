@@ -735,3 +735,11 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 	+ display: inline-block;
 	margin-left: 30px;
 }
+
+.regullux-remove-bottom {
+	margin-bottom: -50px;
+}
+
+.regullux-remove-bottom-23 {
+	margin-bottom: -23px;
+}

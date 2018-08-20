@@ -103,7 +103,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 <!-- ABOUT REGULUUX -->
- <section id="about" class="padding-top-bottom-45 bg-image-fit-50" style="background:url(assets/images/about_us.jpg)">
+ <section id="about" class="padding-top-bottom-45 bg-image-fit-50 regullux-remove-bottom" style="background:url(assets/images/about_us.jpg)">
       <div class="container">
         <div class="row">
           <div class="feature-regullux">
@@ -126,7 +126,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                </div>
         </section>
 <!-- END ABOUT REGULUUX -->.
- <div class="gradient-violat padding-top-50"></div>
+
+<section id="blank_id" class="gradient-violat padding-top-50"></section>
+
     <section id="feature" class="padding-top-bottom-120 bg-image-fit-50" style="background:url(assets/images/1_back.png)">
       <div class="container">
         <div class="row">
@@ -185,8 +187,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </div>
     </section>
     
-    <section id="customer-support" class="overflow-x-hidden">
-      <div class="row">
+    <section id="customer-support" class="overflow-x-hidden regullux-remove-bottom-23">
+      <div class="row ">
         <div class="col-md-6">
           <div class="image-wraper">
             <img class="img-responsive" src="assets/images/support.png" alt="">
@@ -203,7 +205,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </div>
     </section>
 <!-- BLANK SPACE -->
-<section id="blank_id" class="gradient-orange padding-top-90">
+<section id="blank_id" class="gradient-orange padding-top-50">
       <div class="container">
         <div class="row">
           </div>

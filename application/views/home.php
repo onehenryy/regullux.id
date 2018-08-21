@@ -136,19 +136,19 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="col-xs-7 col-sm-4 col-md-offset-0">
              <i class="ion-heart"></i>
                 <i>Work with Love</i>
-                <p>.</p>
+                <p>Kenapa bekerja harus dengan cinta?, terkadang pekerjaan yang sangat kita senangi pun terasa membosankan, disini Team Regullux hadir dengan mencintai setiap pekerjaan yang client berikan kepada Regullux, sehingga apa yang dikerjakan Team Regullux menjadi hasil yang memuaskan bagi client-client Regullux.</p>
               </div>
 
              <div class="col-xs-7 col-sm-4 col-md-offset-0">
               <i class="ion-ios-lightbulb"></i>
                 <i>Creativity</i>
-                <p>Designed with modern trends and techniques in mind, Sedna will help your product stand out in an already saturated market.</p>
+                <p>Kreatifitas merupakan nilai lebih yang Regullux punya, karena bagi Regullux, setiap case yang ada dan dimiliki client, penyelesaian nya tidak hanya terpaku pada 1 cara saja, melainkan Team Regullux membuat kombinasi baru untuk menyelesaikan masalah tersebut.</p>
               </div>
 
              <div class="col-xs-7 col-sm-4 col-md-offset-0">
              <i class="ion-android-refresh"></i>
                 <i>Consistent</i>
-                <p>Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
+                <p>Konsistensi dipakai oleh Regullux, dikarenakan Team Regullux ingin membuat client percaya, bahwa kualitas dari pelayanan Regullux tetap konsisten dan sangat baik, kualitas nya tidak menurun. Regullux selalu mengimprove kinerja nya agar client terpuaskan dengan Regullux.</p>
               </div>
             </div>
         </div>

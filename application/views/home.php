@@ -118,7 +118,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       <div class="row">
                         <div class="col-md-6 col-sm-8">
                             <h3 class="service-title">Misi</h3>
-                            <p>Dengan cara berkomitmen dalam bekerja sama, selalu menumbuhkan rasa percaya kepada semua pihak, dan memberika value yang terjangkau serta pelayanan yang terbaik</p>
+                            <p>Berkomitmen dalam bekerja sama, selalu menumbuhkan rasa percaya kepada semua pihak, dan memberika value yang terjangkau serta pelayanan yang terbaik</p>
                           </div>
                         </div>
                       </div>

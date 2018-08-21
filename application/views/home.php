@@ -81,7 +81,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title text-center">Dapatkan penawaran terbaik</h4>
+                <h4 class="modal-title text-center">GET MORE INFO</h4>
             </div>
                 <div class="modal-body">
                     <form id="get_info" action="assets/getinfo.php" method="POST">
@@ -129,7 +129,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!-- END ABOUT REGULUUX -->.
 
 <section id="blank_id" class="gradient-violat padding-top-50"></section>
-
     <section id="feature" class="padding-top-bottom-120 bg-image-fit-50" style="background:url(assets/images/1_back.png)">
       <div class="container">
         <div class="row">
@@ -199,8 +198,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="heading-wraper-cs customer-support-content padding-top-bottom-120 sm-padding-top-bottom-50-75">
             <h4>Consult With Us</h4>
             <hr class="heading-devider-cs gradient-orange">
-            <p class="margin-top-bottom-30">Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.Built using the latest web technologies like html5, css3, and jQuery, rest assured Sedna will look smashing on every device under the sun.</p>
-            <a class="btn btn-orange border-none btn-rounded-corner" href="#">need our help ? let's chat<span class="icon-on-button"><i class="ion-ios-arrow-thin-right"></i></span></a>
+            <p class="margin-top-bottom-30">Jangan ragu untuk bertanya,anggap kami sahabatmu. Kami akan memberikan pilihan yang terbaik untuk kamu. Dengan bertanya kita akan tahu apa yang terbaik untuk kita. Selesaikan masalah komputerisasimu dengan kami dan dapatkan penawaran menarik lainnya.</p>
+            <a class="btn btn-orange border-none btn-rounded-corner" href="#">let's chat<span class="icon-on-button"><i class="ion-ios-arrow-thin-right"></i></span></a>
           </div>
         </div>
       </div>

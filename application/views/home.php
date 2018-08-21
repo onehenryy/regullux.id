@@ -63,7 +63,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <a class="btn btn-orange border-none btn-rounded-corner" href="https://wa.me/62?text=Hi+Regullux%2C" target="_blank">CHAT WITH US<span class="icon-on-button"></span></a>
             </div>
             <div class="image-container text-center sm-display-none">
-              <img class="img-responsive" src="assets/images/mockuo2.png" alt="">
+              <img class="img-responsive" src="assets/images/oneheader.png" alt="">
             </div>
           </div>
         </div>

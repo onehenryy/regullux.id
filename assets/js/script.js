@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	// customize regullux
 
-			$("#berlangganan").on("submit", function(e) {
+			$("#get_info").on("submit", function(e) {
       		var postData = $(this).serializeArray();
       		var formURL = $(this).attr("action");
       		$.ajax({
@@ -12,7 +12,7 @@ $(document).ready(function() {
             success: function(data, textStatus, jqXHR) {
 			$('#berlangganan .modal-header .modal-title').html("Result");
 			$('#berlangganan .modal-body').html(data);
-			$("#sentForm").remove();
+			$("#submit").remove();
 			},
 			error: function(jqXHR, status, error) {
 			console.log(status + ": " + error);
@@ -20,8 +20,8 @@ $(document).ready(function() {
 			});
 			e.preventDefault();
 			});
-			$("#sentForm").on('click', function() {
-			$("#berlangganan").submit();
+			$("#submit").on('click', function() {
+			$("#get_info").submit();
 
 			});
 

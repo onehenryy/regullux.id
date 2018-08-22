@@ -94,7 +94,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    <button type="button" id="sentForm" class="btn btn-default">Send</button>
+                    <button type="button" id="submit" class="btn btn-default">Send</button>
                 </div>
             </div>
         </div>

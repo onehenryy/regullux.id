@@ -22,7 +22,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <link rel="stylesheet" href="assets/css/style.css">
   </head>
   <body>
-    <header id="home" class="gradient-violat">
+    <header id="home" class="navbar-inner">
       <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -53,28 +53,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div><!-- /.container-fluid -->
       </nav>
     </header>
-    <section id="introduction" class="gradient-violat padding-top-90 home-slider">
-      <div id="home-slider" class="owl-carousel">
+   <div class="gradient-violat"> <section id="introduction" style="background:url(assets/images/copcat.png)right bottom no-repeat; background-size:auto;" class="padding-top-bottom-120" >
+      <div id="home-slider">
         <div>
-          <div class="sliding-card-with-bottom-image text-center padding-top-90">
+           <div class="sliding-card-with-bottom-image text-center padding-top-90">
             <h2 class="cta-heading text-white">WE HELP AND PROVIDE BEST IT SERVICE FOR YOU</h2>
             <p class="text-white slider-para">IT SERVICE TANGERANG</p>
             <div class="cta-btn-group">
               <a class="btn btn-orange border-none btn-rounded-corner" href="https://wa.me/62?text=Hi+Regullux%2C" target="_blank">CHAT WITH US<span class="icon-on-button"></span></a>
             </div>
-            <div class="image-container text-center sm-display-none">
-              <img class="img-responsive" src="assets/images/oneheader.png" alt="">
-            </div>
           </div>
-        </div>
+        </div></div>
         
        
           </div>
         </div>
       </div>
     </section>
-
-<!-- MODAL DIALOG BUAT GET INFO -->
 
 <div class="modal fade" id="berlangganan" role="dialog">
     <div class="modal-dialog">
@@ -101,10 +96,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
     </div>
 
-  <!-- END MODAL DIALOG BUAT GET INFO -->
-
-
-<!-- ABOUT REGULUUX -->
  <section id="about" class="padding-top-bottom-45 bg-image-fit-50 regullux-remove-bottom" style="background:url(assets/images/about_us.jpg)">
       <div class="container">
         <div class="row">
@@ -127,7 +118,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                    </div>
                </div>
         </section>
-<!-- END ABOUT REGULUUX -->.
 
 <section id="blank_id" class="gradient-violat padding-top-50"></section>
     <section id="feature" class="padding-top-bottom-120 bg-image-fit-50" style="background:url(assets/images/1_back.png)">
@@ -205,7 +195,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
       </div>
     </section>
-<!-- BLANK SPACE -->
+
 <section id="blank_id" class="gradient-orange padding-top-50">
       <div class="container">
         <div class="row">
@@ -213,7 +203,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
       </div>
     </section>
-<!-- END BLANK SPACE -->
+
     <footer class="padding-top-120">
       <div class="container">
         <div class="row">

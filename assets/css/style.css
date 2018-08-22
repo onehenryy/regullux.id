@@ -698,7 +698,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 }
 
 
-/***************************************OWL CAROUSEL ******************************************************************/
+/***************************************UNUSED ******************************************************************/
 
 .owl-theme .owl-controls .owl-page span{
 	background: #fff;
@@ -731,7 +731,6 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 	float: right;
 	margin-right: 50px;
 
-
 }
 
 .copyright {
@@ -744,6 +743,11 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 	margin-bottom: -50px;
 }
 
-.regullux-remove-bottom-23 {
+.regullux-remove-bottom-23{
 	margin-bottom: -23px;
+}
+
+.background-cover{
+	background:url(copcat.png)right bottom no-repeat;
+	background-size:auto;
 }

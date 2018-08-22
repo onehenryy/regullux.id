@@ -85,16 +85,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
                 <div class="modal-body">
                     <form id="get_info" action="assets/getinfo.php" method="POST">
-                        First Name :<input type="text" name="first_name"><br/>
-                        <br/>
-                        Last Name :<input type="text" name="last_name"><br/>
-                        <br/>
-                        Email :    <input type="text" name="email"><br/><br/>
+                        <label >First Name :</label></br>
+                        <input style="width:100%" type="text" name="first_name" id="first_name"></br>
+                        <label>Last Name :</label></br>
+                        <input style="width:100%"type="text" name="last_name" id="last_name"></br>
+                        <label>Email     :</label></br>
+                        <input style="width:100%" type="text" name="email" id="email"></br>
                     </form>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    <button type="button" id="submit" class="btn btn-default">Send</button>
+                    <button type="button" id="submit" class="btn btn-primary" data-loading-text="Sending.." name="save_info" id="save_info">Send</button>
                 </div>
             </div>
         </div>

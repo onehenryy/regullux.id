@@ -4,7 +4,7 @@ $(document).ready(function() {
 
 			$("#get_info").on("submit", function(e) {
       		var postData = $(this).serializeArray();
-      		var formURL = $(this).attr("action");
+      		var formURL = $(this).attr("action"); 
       		$.ajax({
            	url: formURL,
             type: "POST",

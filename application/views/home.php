@@ -200,7 +200,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <h4>Consult With Us</h4>
             <hr class="heading-devider-cs gradient-orange">
             <p class="margin-top-bottom-30">Jangan ragu untuk bertanya,anggap kami sahabatmu. Kami akan memberikan pilihan yang terbaik untuk kamu. Dengan bertanya kita akan tahu apa yang terbaik untuk kita. Selesaikan masalah komputerisasimu dengan kami dan dapatkan penawaran menarik lainnya.</p>
-            <a class="btn btn-orange border-none btn-rounded-corner" href="#">let's chat<span class="icon-on-button"><i class="ion-ios-arrow-thin-right"></i></span></a>
+            <a class="btn btn-orange border-none btn-rounded-corner" href="">let's chat<span class="icon-on-button"><i class="ion-ios-arrow-thin-right"></i></span></a>
           </div>
         </div>
       </div>
@@ -235,10 +235,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="footer-list-wiget">
                   <h4>Support</h4>
                   <div class="list-group">
-                    <a href="#" class="list-group-item">FAQ</a>
-                    <a href="#" class="list-group-item">Contact US</a>
-                    <a href="#" class="list-group-item">Outlook Plugin</a>
-                    <a href="#" class="list-group-item">Phone Control</a>
+                    <a href="" class="list-group-item">FAQ</a>
+                    <a href="" class="list-group-item">Contact US</a>
+                    <a href="" class="list-group-item">Outlook Plugin</a>
+                    <a href="" class="list-group-item">Phone Control</a>
                   </div>
                 </div>
               </div>
